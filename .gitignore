@@ -1,3 +1,8 @@
+# Project info for the IDE i use
+*.cbp
+*.depend
+*.layout
+
 # Prerequisites
 *.d
 
